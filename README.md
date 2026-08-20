@@ -6,11 +6,11 @@ Documentation, orchestration configs, and automation scripts for my self-hosted 
 * **CPU:** AMD A6-7400K (2 Cores @ 3.5GHz)
 * **RAM:** 4GB DDR3 (Optimized JVM and Postgres shared memory allocations)
 * **Storage:** 500GB HDD (Custom EXT4 dual-partitioning via GParted Live)
-* **OS:** Debian 12 (via OpenMediaVault 7)[cite: 2]
+* **OS:** Debian 12 (via OpenMediaVault 7)
 
-## 🚀 Deployed Services (Docker Compose)[cite: 2]
-* **Immich Stack:** Self-hosted photo/video backup (Server, Machine Learning, Postgres vector, Redis)[cite: 2].
-* **Tailscale:** Mesh VPN overlay network for secure remote access without opening public ports[cite: 2].
+## 🚀 Deployed Services (Docker Compose)
+* **Immich Stack:** Self-hosted photo/video backup (Server, Machine Learning, Postgres vector, Redis).
+* **Tailscale:** Mesh VPN overlay network for secure remote access without opening public ports.
 * **SMB/CIFS Shares:** Local network file management with granular ACLs.
 
 ## 🛠️ Key SysAdmin & DevOps Tasks Documented
